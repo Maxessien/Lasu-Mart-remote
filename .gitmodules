@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Maxessien/Lasu-Mart-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Maxessien/Lasu-Mart-frontend.git

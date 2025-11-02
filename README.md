@@ -1,1 +1,0 @@
-# Lasu-Mart-remote
